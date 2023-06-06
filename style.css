@@ -12,4 +12,47 @@ h1 {
     display: inline;
     border: 1px solid beige;
     padding: 3px 10px 3px 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    background-color: cornflowerblue;
+    color: whitesmoke;
+}
+
+.menu-topo {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 0px 50px 0px;
+}
+
+.destaque {
+    color: darkcyan;
+    padding: 30px;
+    background-color: darkslategray;
+    border-style: groove;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 48px;
+    text-align: center;
+}
+
+.show{
+    display: block;
+}
+
+.hide{
+    display: none;
+}
+
+.zona-botao-show-hide {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.zona-botao-show-hide input {
+    color: whitesmoke;
+    background-color: indianred;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    padding: 3px 20px 3px 20px;
 }
